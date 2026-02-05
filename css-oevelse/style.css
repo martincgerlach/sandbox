@@ -1,0 +1,40 @@
+body {
+  background-color: #046307;
+  color: lightcoral;
+}
+
+section {
+  border-radius: 10px;
+  padding: 16px;
+  margin: 16px;
+  background-color: #046307;
+    color: lightcoral;
+    border: 3px solid black;
+  
+}
+
+p {
+  background-color: #046307;
+  color: lightcoral;
+  font-size: 0.8em;
+}
+
+h1,h2 {
+background-color: orange;
+color: blue;
+
+
+
+}
+
+h1{
+font-size: 32px;
+
+
+}
+
+h2 {
+font-size: 1.2rem;
+
+
+}
